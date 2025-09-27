@@ -29,10 +29,8 @@ Having graduated from Ecole Polytechnique (France) I’m currently pursuing my g
 
 
 [**hackaton Margo AI for health**](https://github.com/edouard-rabasse/hackaton-margo)
-> Hackaton organized by Margo, Qubits Pharmaceuticals and IBM, were the goal was to predict toxicity of molecules based on there SMILEs chains. We achieved first place.
-
-
----
+*Hackaton organized by Margo, Qubits Pharmaceuticals and IBM. We achieved first place.*
+> The goal was to predict toxicity of molecules based on SMILEs chains. We combined classical classification methods with Deep Learning---
 
 ## Technical Skills
 
