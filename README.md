@@ -32,6 +32,9 @@ Having graduated from Ecole Polytechnique (France) I’m currently pursuing my g
 *Hackaton organized by Margo, Qubits Pharmaceuticals and IBM. We achieved first place.*
 > The goal was to predict toxicity of molecules based on SMILEs chains. We combined classical classification methods with Deep Learning---
 
+## Project reports
+[**List of reports**](https://github.com/edouard-rabasse/project_reports)
+
 ## Technical Skills
 
 - **Machine Learning:** PyTorch, Computer Vision, Deep Learning
