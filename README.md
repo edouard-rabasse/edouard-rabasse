@@ -19,13 +19,13 @@ Having graduated from Ecole Polytechnique (France) I’m currently pursuing my g
 > Using computer vision to predict planner's adjustment in Park and Loop routing problems.
 
 [**hackathon_MIT_MCP-OR**](https://github.com/h1ppox99/hackathon_MIT_MCP-OR)
-> Collaborative project from the MIT Hackathon (Spring 2025). We were 13th out of 100+ teams
-> We have built an interactive application that computes the optimal freight transport route between two cities based on user-definable priorities: speed, cost, and environmental impact (CO₂ emissions).
-    Origins & Destinations: Users select any two cities.
-    Preferences: Adjust sliders for time, price, and sustainability importance.
-    Multi-Modal Network: Supports road, air, and sea segments.
-    Real-World Data: Leverages geographical coordinates, transportation timetables, CO₂ emission estimates, and price data.
-    Dynamic Updates: Incorporates live traffic, weather, or other user-provided conditions to recalculate the best route in real time.
+*Collaborative project from the MIT Hackathon (Spring 2025). We were 13th out of 100+ teams*
+> We built an interactive application that computes the optimal freight transport route between two cities based on user-definable priorities: speed, cost, and environmental impact (CO₂ emissions).
+> Origins & Destinations: Users select any two cities.
+> Preferences: Adjust sliders for time, price, and sustainability importance.
+> Multi-Modal Network: Supports road, air, and sea segments.
+> Real-World Data: Leverages geographical coordinates, transportation timetables, CO₂ emission estimates, and price data.
+> Dynamic Updates: Incorporates live traffic, weather, or other user-provided conditions to recalculate the best route in real time.
 
 
 [**hackaton Margo AI for health**](https://github.com/edouard-rabasse/hackaton-margo)
