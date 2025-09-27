@@ -8,7 +8,7 @@ Passionate about combining theory, research, and real-world applications
 
 ## About Me
 
-Having graduated from Ecole Polytechnique (France) I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University, with a focus on machine learning and optimization. I enjoy tackling complex problems—especially those at the intersection of computer vision, operations research, and large-scale data.
+Having graduated from Ecole Polytechnique (France) I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University (ICME program), with a focus on machine learning and optimization. I enjoy tackling complex problems—especially those at the intersection of computer vision, operations research, and large-scale data.
 
 ---
 
