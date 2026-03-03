@@ -8,11 +8,15 @@ Passionate about combining theory, research, and real-world applications
 
 ## About Me
 
-Having graduated from Ecole Polytechnique (France) I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University (ICME program), with a focus on machine learning and optimization. I enjoy tackling complex problems—especially those at the intersection of computer vision, operations research, and large-scale data.
+Having graduated from Ecole Polytechnique (France) I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University (ICME program), with a focus on machine learning and optimization. I enjoy tackling complex problems—especially those at the intersection of theoretical machine learning and optimization.
 
 ---
 
 ## Featured Project
+
+[**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn)  
+*Graph Neural Networks for power systems*  
+> Using GNNs to model and predict power flow in electrical grids.
 
 [**VRP**](https://github.com/edouard-rabasse/VRP)  
 *Research Internship at CIRRELT (Montréal)*  
