@@ -1,24 +1,21 @@
-# Edouard Rabasse 
+# Edouard Rabasse
 
-**Stanford Graduate Student in Applied Math**  
-Specializing in **Machine Learning** & Optimization  
-Passionate about combining theory, research, and real-world applications
+**M.S. Computational & Mathematical Engineering @ Stanford (ICME)** · **Diplôme d'ingénieur @ École Polytechnique**
 
+Having graduated from Ecole Polytechnique (France), I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University ([ICME MS program](https://icme.stanford.edu/)), where I mostly study deep learning: NLP, graph neural networks and reinforcement learning.
+
+I am currently working as a research assistant at SLAC National Lab in the Machine Learning and Computer Vision group.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edouard-rabasse)
 ---
 
-## About Me
-
-Having graduated from Ecole Polytechnique (France) I’m currently pursuing my graduate studies in Applied Mathematics at Stanford University (ICME program), with a focus on machine learning and optimization. I enjoy tackling complex problems—especially those at the intersection of theoretical machine learning and optimization.
-
----
-
-## Featured Project
+## Featured Projects
 
 [**ring-attention**](https://github.com/h1ppox99/ring-attention)
 *A from-scratch C++/CUDA implementation, tuned for Stanford's Turing (sm_75) GPU cluster.*
 
 [**SFUSD Choice Modeling**](https://github.com/Stanford-MSandE-SFUSD/SFUSD-Choice-public)
-Fits and evaluates Multinomial Logit (MNL) discrete-choice models on San Francisco Unified School District (SFUSD) school-choice data.
+> Fits and evaluates Multinomial Logit (MNL) discrete-choice models on San Francisco Unified School District (SFUSD) school-choice data.
 
 [**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn)  
 *Graph Neural Networks for power systems*  
@@ -27,6 +24,8 @@ Fits and evaluates Multinomial Logit (MNL) discrete-choice models on San Francis
 [**VRP**](https://github.com/edouard-rabasse/VRP)  
 *Research Internship at CIRRELT (Montréal)*  
 > Using computer vision to predict planner's adjustment in Park and Loop routing problems.
+
+## Hackathons
 
 [**hackathon_MIT_MCP-OR**](https://github.com/h1ppox99/hackathon_MIT_MCP-OR)
 *Collaborative project from the MIT Hackathon (Spring 2025). We were 13th out of 100+ teams*
@@ -40,18 +39,23 @@ Fits and evaluates Multinomial Logit (MNL) discrete-choice models on San Francis
 
 [**hackaton Margo AI for health**](https://github.com/edouard-rabasse/hackaton-margo)
 *Hackaton organized by Margo, Qubits Pharmaceuticals and IBM. We achieved first place.*
-> The goal was to predict toxicity of molecules based on SMILEs chains. We combined classical classification methods with Deep Learning---
-
-## Project reports
-[**List of reports**](https://github.com/edouard-rabasse/project_reports)
+> The goal was to predict toxicity of molecules based on SMILEs chains. We combined classical classification methods with Deep Learning
 
 ## Technical Skills
 
-- **Machine Learning:** PyTorch, Computer Vision, Deep Learning
-- **Optimization:** Mathematical modeling, algorithm design, Gurobi
-- **Programming:** Python (main), Java, C++, R, OCaml
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524)
 
+
+
+## More project reports
+[**List of reports**](https://github.com/edouard-rabasse/project_reports)
 
 <!-- Optionally add social links, fun facts, or a unique tagline here -->
 
